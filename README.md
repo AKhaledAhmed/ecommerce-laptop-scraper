@@ -17,7 +17,7 @@ This project is a web scraper that extracts laptop data from an e-commerce websi
 ## Installation
 
 
-1.Install the required libraries:
+1. Install the required libraries:
     ```sh
     pip install requests beautifulsoup4 pandas
     ```
