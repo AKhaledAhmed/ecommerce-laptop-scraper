@@ -16,13 +16,8 @@ This project is a web scraper that extracts laptop data from an e-commerce websi
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/laptop-web-scraper.git
-    cd laptop-web-scraper
-    ```
 
-2. Install the required libraries:
+-Install the required libraries:
     ```sh
     pip install requests beautifulsoup4 pandas
     ```
